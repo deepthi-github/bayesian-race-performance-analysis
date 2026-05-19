@@ -52,9 +52,9 @@ Captures structured variation across courses, packs, age groups, and athlete-lev
 
 ## Files
 
-- `bayesian_race_analysis.Rmd
+- `bayesian_race_analysis.Rmd`
 - `Bayesian-Methodology.pdf`
-- `data
+- `data`
 
 ## Future Improvements
 
